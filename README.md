@@ -82,6 +82,8 @@ A aplicação DVWA está disponível no seguinte endpoint:
 
 URL: http://192.168.56.101/dvwa/login.php
 
+Observação: o endereço IP é acessível apenas no ambiente local configurado em máquina virtual (Host-Only).
+
 ### Credenciais padrão:
 
 * admin / password
