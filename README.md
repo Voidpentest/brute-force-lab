@@ -78,7 +78,9 @@ Acesso não autorizado ao servidor FTP, permitindo leitura e modificação de ar
 
 ### Acesso:
 
-http://192.168.56.101/dvwa/login.php
+A aplicação DVWA está disponível no seguinte endpoint:
+
+URL: http://192.168.56.101/dvwa/login.php
 
 ### Credenciais padrão:
 
